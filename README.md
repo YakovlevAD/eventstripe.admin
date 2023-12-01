@@ -1,0 +1,2 @@
+# eventstripe.admin
+Eventstripe admin
